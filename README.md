@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,c%2B%2B,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -53,7 +53,8 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=Abhishek69989&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abhishek69989&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/api/top-langs/?username=Abhishek69989&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek69989&show_icons=true&locale=en&layout=compact" alt="Abhishek69989" />
+
 </div>
 
 <br/><br/>
