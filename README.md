@@ -12,7 +12,7 @@
  
   I’m currently Studying in **Amrita Vishwa Vidyapeetham**
  
-  I’m currently learning **AWS, Cloud Computing**
+  I’m currently learning **Cloud Computing**
 
  </div>
  
