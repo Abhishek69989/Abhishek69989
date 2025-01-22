@@ -2,7 +2,7 @@
 <img src="https://camo.githubusercontent.com/a9f34dbafee6cd81ccd658f6435dd9c85a04fae5e75c4af670578caba7690208/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a56726248647a643264356554647863336871595856365a5739725a6e463063336378595842334e6d6f7a5a5774724d7a5a354f535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6877767875494b4c45617944532f67697068792e676966" alt="Profile Header GIF" width="500px" />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holla!+%F0%9F%91%8B;+I'm+Abhishek+Sudhir!;AI+Engineer+and+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holla!+%F0%9F%91%8B;+I'm+Abhishek+Sudhir!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🌟 Passionate AI Engineer from India 🌟</h3>
