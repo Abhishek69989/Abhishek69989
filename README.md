@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holla!+%F0%9F%91%8B;+I'm+Abhishek+Sudhir!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🌟 Passionate AI Engineer from India 🌟</h3>
+<h3 align="center">🌟 AI Visionary | Innovator from India 🌟</h3>
 
 <p align="center">Welcome to my GitHub! Let's innovate and create together. 🚀</p>
 
