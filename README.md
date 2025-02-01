@@ -13,7 +13,7 @@
  
   🎓 Currently studying at <strong>Amrita Vishwa Vidyapeetham</strong>  
   
-  🌱 Exploring <strong>Cloud Computing</strong>, <strong>AI</strong>, and <strong>Machine Learning</strong>
+  🌱 Exploring <strong>Large Language Models</strong>, <strong>AI</strong>, and <strong>Deep Learning</strong>
 
   💡 Always eager to learn and collaborate on exciting projects!
 
