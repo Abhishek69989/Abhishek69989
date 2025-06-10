@@ -13,7 +13,7 @@
  
   🎓 Currently studying at <strong>Amrita Vishwa Vidyapeetham</strong>  
   
-  🌱 Exploring <strong>LLMs</strong>, <strong>AI</strong>, and <strong>Deep Learning</strong>
+  🌱 Exploring intelligent solutions at the intersection of <strong>AI</strong> and <strong>Medicine</strong> using <strong>LLMs</strong> and <strong>Deep Learning</strong>
 
   💡 Always eager to learn and collaborate on exciting projects!
 
